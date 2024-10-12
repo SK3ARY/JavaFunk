@@ -1,0 +1,38 @@
+Comments in JavaFunk (Or BrainF**K) are made by using any character that is not a part of the syntax
+
+
+Writes the character "H"
+>++++++++[<+++++++++>-]<.
+
+Writes the character "e"
+>++++[<+++++++>-]<+.
+
+Writes the character "l" twice
++++++++..
+
+Writes the character "o"
++++.
+
+Writes a comma character
+>>++++++[<+++++++>-]<++.
+
+Writes a whitespace character
+------------.
+
+Writes the character "W"
+>++++++[<+++++++++>-]<+.
+
+Writes the character "o"
+<.
+
+Writes the character "r"
++++.
+
+Writes the character "l"
+------.
+
+Writes the character "d"
+--------.
+
+Writes the character "!"
+>>>++++[<++++++++>-]<+.
