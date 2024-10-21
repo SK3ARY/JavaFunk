@@ -1,33 +1,11 @@
-<style>
-    h1 {
-        display: flex;
-        align-items: center; /* Vertically center logo and text */
-        justify-content: center; /* Horizontally center the content */
-    }
 
-    .logo {
-        margin-right: 10px; /* Add some space between logo and text */
-        width: auto;
-        height: 70px;
-    }
 
-    .subtitle {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-
-    .description {
-        text-align: center;
-    }
-</style>
-
-<h1>
-    <img src="logo.png" alt="logo" class="logo"/>
-    <span class="h1-text">JavaFunk</span>
+<h1 style="display: flex; align-items: center; justify-content: center;">
+    <img src="logo.png" alt="logo" style="margin-right: 10px; width: auto; height: 70px;"/>
+    <span>JavaFunk</span>
 </h1>
 
-<small class="subtitle">A rendition of the BrainFuck compiler made in Java</small>
+<small style="display: flex; align-items: center; justify-content: center;">A rendition of the BrainFuck compiler made in Java</small>
 
 <a id="description-anchor"></a>
 
